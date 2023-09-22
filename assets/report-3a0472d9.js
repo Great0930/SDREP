@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./index-2b02a292.js";const c={},r=s("h1",null," this is Report page",-1),a=[r];function n(_,p,i,d,l,f){return t(),o("div",null,a)}const h=e(c,[["render",n]]);export{h as default};
